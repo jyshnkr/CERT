@@ -4,4 +4,4 @@ CERT is an iOS Mobile Application which provides immediate assitance to the vict
 
 ![](https://github.com/VarshithReddyBairy/CERT/blob/main/assets/CERT-LOGO.jpg)
 
-**Check out the project's [Wiki](https://github.com/jyshnkr/CERT/wiki) for more infor about this project**
+**Check out the project's [Wiki](https://github.com/jyshnkr/CERT/wiki) for more info about the project**
